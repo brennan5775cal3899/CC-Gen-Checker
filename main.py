@@ -1,0 +1,2 @@
+# Secure CC Data Generator 2026
+PROJECT_NAME = "Secure CC Data Generator 2026"
